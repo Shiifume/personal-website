@@ -90,7 +90,7 @@ p,
 .headerright a {
     color: white;
     text-decoration: none;
-    font-family: "Unica One";
+    font-family: "big shoulders";
     font-size: 20pt;
 }
 
@@ -100,7 +100,7 @@ p,
 }
 
 #training a {
-    font-family: "Unica One";
+    font-family: "big shoulders";
     text-decoration: none;
 }
 
@@ -129,7 +129,7 @@ p,
 .name {
     margin: 0;
 
-    font-family: "Unica One";
+    font-family: "unica one";
     font-size: 75pt;
     font-weight: 100;
 }
@@ -144,7 +144,7 @@ p,
 }
 
 .intro > p {
-    font-family: "Unica One";
+    font-family: "unica one";
 }
 
 .intro > h1,
@@ -160,8 +160,9 @@ h3 {
     border-top: 1px solid grey;
     border-bottom: 1px solid grey;
 
-    font-family: "Unica One";
-    font-weight: 100;
+    font-family: "roboto";
+    font-size : 16pt;
+    font-weight: 300;
 }
 
 
@@ -184,7 +185,7 @@ h3 {
     border: 1px solid rgb(143, 143, 143);
     border-radius: 5px;
 
-    font-family: "Unica One";
+    font-family: "big shoulders";
     font-size: 16pt;
 }
 
@@ -219,7 +220,7 @@ h3 {
 }
 
 #training > div > .diploma {
-    font-family: "Unica One";
+    font-family: "roboto";
     font-size: 18pt;
 }
 
